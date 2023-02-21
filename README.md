@@ -12,12 +12,12 @@ Tiene como finalidad poder funcionar en una empresa a través de este sistema op
 Nos permitirá convertir una computadora personal en un soporte de almacenamiento accesible desde red, por ejemplo para almacenamientos masivos de información, música, backups, también permite a las organizaciones automatizar y simplificar el mantenimiento de los datos.
 
 ### Medios hardware y software a utilizar
-Hardware:
+#### *Hardware:*
 
 Harán falta varias maquinas virtuales que se podrán ejecutar en nuestro ordenador personal
 Requerimientos minimos: Un ordenador con 12/16 gb de ram y 100/150 gb de espacio en el disco duro
 
-*Software:*
+#### *Software:*
 
 Maquinas virtuales para instalar TrueNas 
 
