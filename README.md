@@ -1,4 +1,4 @@
-# Anteproyecto-Grado-Asir---Alvaro-Bueno
+# Anteproyecto-Grado-Asir--Alvaro-Bueno Ortiz
 
 ### TRUENAS ALMACENAMIENTO MASIVO 
 Lo que tengo pensado hacer es un almacenamiento conectado en red llamado TrueNas, es el sistema operativo de almacenamiento de código abierto más popular del mundo
@@ -22,3 +22,9 @@ Requerimientos minimos: Un ordenador con 12/16 gb de ram y 100/150 gb de espacio
 Maquinas virtuales para instalar TrueNas 
 
 ### Planificación
+Instalacion de programas y maquinas virtuales 2/3 horas
+Configuración de maquinas virtuales y programas 10 horas
+Creación y configuración de archivos y documentos para el funcionamiento 5 horas
+Configuración interna y busqueda para saber el uso de los programas utilizados 5 horas
+Creación del documento del proyecto y tomas de captura y diseño 10 horas
+Posibles errores y busqueda de soluciones a ellos 3/5 horas
